@@ -3,6 +3,7 @@
 	"description": "A minimal D application.",
 	"copyright": "Copyright © 2015, tom",
 	"authors": ["tom"],
+	"license": "MIT",
 	"libs": ["mruby"],
 	"dependencies": {
 	}
