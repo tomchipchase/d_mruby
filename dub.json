@@ -1,0 +1,9 @@
+{
+	"name": "d_mruby",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, tom",
+	"authors": ["tom"],
+	"libs": ["mruby"],
+	"dependencies": {
+	}
+}
